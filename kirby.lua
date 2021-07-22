@@ -6,6 +6,7 @@ Controls :
 
 H = Fighter Barrage
 M = Spawn WarpStar
+F = Release WarpStar
 
 X = Hold Fat Explosion
 V = Release Fat Explosion
